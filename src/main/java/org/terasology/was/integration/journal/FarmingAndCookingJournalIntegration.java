@@ -88,7 +88,7 @@ public class FarmingAndCookingJournalIntegration extends BaseComponentSystem {
                         createTitleParagraph("Cooking Station"),
                         createTextParagraph("Cooking Station allows you to prepare food. To built it, you need to create two Brick Blocks " +
                                 "at an upgraded Stone Station, and also two Cobble Stone Slabs. Once you have these, put the Brick Blocks next " +
-                                "to each other, place the Slabs on top of them and right-click the structure while holding a hammer in hand " +
+                                "to each other, place the Eightblock Slabs on top of them and right-click the structure while holding a hammer in hand " +
                                 "to finish off the process.<l><l>Cooking Station recipes might require water and heat to operate. You can store " +
                                 "some water in the container provided by the station user interface. You might want to use bucket to fill the " +
                                 "container.<l><l>Some recipes might also require heat. Heat is produced by burning various materials, such as " +

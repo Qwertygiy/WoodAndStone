@@ -46,6 +46,8 @@ public class ModifyBlockDestruction extends BaseComponentSystem {
         exceptions.add(new BlockUri("WoodAndStone:ClayStone"));
     }
 
+    // TODO: Temporarily commented out until it's moved into TTA.
+    /*
     @ReceiveEvent
     public void preventPlayerFromDestroyingBasicBlocksByHand(BeforeDamagedEvent event, EntityRef blockEntity) {
         BlockComponent blockComponent = blockEntity.getComponent(BlockComponent.class);
@@ -79,4 +81,5 @@ public class ModifyBlockDestruction extends BaseComponentSystem {
         }
         return true;
     }
+    */
 }
